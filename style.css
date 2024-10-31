@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #2C3E50;
+    background-color: #3B3B3B;
 }
 
 .dice-container {
@@ -25,7 +25,7 @@ body {
     display: grid;
     padding: 15px;
     box-sizing: border-box;
-    grid-template-colums: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
     justify-content: center;
     gap: 5px;
