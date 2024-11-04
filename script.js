@@ -29,3 +29,8 @@ function rollDice() {
 }
 
 createDots(diceFaces[0]);
+
+
+function changeBackground(color) {
+    document.body.style.backgroundColor = color;
+}
